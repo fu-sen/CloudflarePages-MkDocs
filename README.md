@@ -14,5 +14,5 @@
 5. Enter the following items and select **Create Static Site**:
     - **Project name**: Any name
     - **Production branch**: `main`, `master`, etc.
-    - **Framework preset**: `MkDocs`
+    - **Framework preset**: `Mkdocs`
 6. Wait a moment. `Success: Your site was deployed!` is displayed and the deployment is complete.
