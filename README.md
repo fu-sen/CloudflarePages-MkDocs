@@ -7,7 +7,7 @@
 
 ## How to use
 
-1. Edit `mkdocs.yml` and `docs/index.md` and add files if needed.
+1. Edit `mkdocs.yml` and `docs/index.md`, add more files if needed.
 2. Add the pip package to `requirements.txt` . (Themes and plugins)
 3. Commit to a GitHub project: `git push`
 4. Create a project from Cloudflare Pages and select your GitHub project.
