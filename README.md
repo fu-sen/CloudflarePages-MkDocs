@@ -19,6 +19,19 @@
 
 ## Build error
 
+Currently targeting **build system version 2**.
+
+To change from build system version 1 to version 2:
+
+https://developers.cloudflare.com/pages/configuration/build-image/#v1-to-v2-migration
+
+If you must continue to use version 1 of the build system,
+your `runtime.txt` should look like this:
+
+```
+3.7
+```
+
 Many of the build error are that you mistyped `mkdocs.yml`
 or you forgot to add the package to` requirements.txt`.
 Check the file change immediately before the error occurred.
